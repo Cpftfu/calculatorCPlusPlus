@@ -1,0 +1,4 @@
+﻿  CUMculator.cpp
+C:\Users\Вика\source\repos\CUMculator\CUMculator.cpp(72,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вика\source\repos\CUMculator\CUMculator.cpp(82,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  CUMculator.vcxproj -> C:\Users\Вика\source\repos\CUMculator\x64\Debug\CUMculator.exe
